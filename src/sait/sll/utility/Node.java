@@ -4,8 +4,6 @@ import java.io.Serializable;
 
 /**
  * Represents a node in the linked list.
- * @version 2025
- *
  */
 public class Node implements Serializable {
 	private static final long serialVersionUID = 1L;
