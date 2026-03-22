@@ -4,8 +4,6 @@ import java.io.Serializable;
 
 /**
  * Singly linked list implementation.
- * @version 2025
- *
  */
 public class SLL implements LinkedListADT, Serializable {
 	private static final long serialVersionUID = 1L;
@@ -190,7 +188,6 @@ public class SLL implements LinkedListADT, Serializable {
 
 	/**
 	 * Checks if matching data exists in the list.
-	 * @param data data to find.
 	 * @return true if found, false otherwise.
 	 */
 	@Override
